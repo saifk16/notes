@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "hi/saif.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "saif"
             }
           }
         ]
@@ -184,8 +184,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d304f0dca599b34a",
+  "active": "a6fc3f6b24fc95b9",
   "lastOpenFiles": [
+    "hi/saif.md",
     "Welcome.md"
   ]
 }
