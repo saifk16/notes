@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hi/TimeTable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TimeTable"
+              "title": "Backlinks"
             }
           },
           {
@@ -167,13 +166,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hi/TimeTable.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TimeTable"
+              "title": "Outline"
             }
           }
         ],
@@ -194,10 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03858679692e76b9",
+  "active": "814f7de3dc66b143",
   "lastOpenFiles": [
-    "hi/Placement 2025.md",
     "hi/TimeTable.md",
+    "hi/Placement 2025.md",
     "Time.md",
     "hi/saif.md",
     "Welcome.md"
