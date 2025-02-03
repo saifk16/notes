@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5ca8def28eb25699",
+        "id": "1460bdca2435bdb8",
         "type": "tabs",
         "children": [
           {
-            "id": "9c024a2ca528df3a",
+            "id": "269c9b33291d8928",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -163,11 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c024a2ca528df3a",
+  "active": "269c9b33291d8928",
   "lastOpenFiles": [
+    "Placement 2025/TimeTable.md",
     "Placement 2025/Topics/CS_FUNDAMENTALS.md",
     "Placement 2025/Topics.md",
-    "Placement 2025/TimeTable.md",
     "Placement 2025/Topics/DSA.md",
     "Placement 2025/Topics",
     "Time.md",
