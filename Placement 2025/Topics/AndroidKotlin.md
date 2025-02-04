@@ -1,4 +1,4 @@
-## Kotlin
+## Kotlin Basics
 - No use use of semicolon
 ```kotlin
 fun main() {
