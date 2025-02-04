@@ -1,31 +1,33 @@
-## Morning
+## Time table from Monday to Thursday 🗓️
+
+### Morning
 | Time              | Activity                   |     |
 | ----------------- | -------------------------- | --- |
 | 5:00 AM - 6:00 AM | Wake up, freshen up, namaz |     |
 | 6:00 AM - 8:30 AM | Learn java/c++             |     |
 | 8:30 AM - 9:00 AM | ready for college          |     |
 
-## College
+### College
 | Time              | Activity      |
 | ----------------- | ------------- |
 | 9:00 AM - 1:00 PM | College Hours |
 
-## Afternoon
+### Afternoon
 | Time              | Activity                 |
 | ----------------- | ------------------------ |
 | 1:00 PM - 2:00 PM | namaz, freshen up, lunch |
 | 2:00 PM - 4:30 PM | learn android + kotlin   |
 | 4:30 PM - 5:00 PM | Break, Namaz             |
 
-## Evening
+### Evening
 | Time              | Activity                                          |
 | ----------------- | ------------------------------------------------- |
-| 5:00 PM - 5:30 PM | Go + Rust + Devops + Web3(Solana) *Alternate      |
+| 5:00 PM - 5:30 PM | CS Fundamentals (CN, OOPS, DBMS, OS, COA, SE, SD) |
 | 5:30 PM - 6:00 PM | Break / Relax, Namaz                              |
 | 6:00 PM - 7:00 PM | CS Fundamentals (CN, OOPS, DBMS, OS, COA, SE, SD) |
 |                   |                                                   |
 
-## Night
+### Night
 | Time                | Activity                        |
 | ------------------- | ------------------------------- |
 | 9:00 PM - 10:30 PM  | Mock Interviews / System Design |
