@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1460bdca2435bdb8",
+        "id": "0519ca4fd7035513",
         "type": "tabs",
         "children": [
           {
-            "id": "269c9b33291d8928",
+            "id": "d0086a669e35b625",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Placement 2025/TimeTable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TimeTable"
             }
           }
         ]
@@ -163,11 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "269c9b33291d8928",
+  "active": "d0086a669e35b625",
   "lastOpenFiles": [
+    "Placement 2025/Topics/AndroidKotlin.md",
+    "Placement 2025/WhatToStudy.md",
     "Placement 2025/TimeTable.md",
     "Placement 2025/Topics/CS_FUNDAMENTALS.md",
-    "Placement 2025/Topics.md",
     "Placement 2025/Topics/DSA.md",
     "Placement 2025/Topics",
     "Time.md",
