@@ -161,3 +161,42 @@ fun birthdayGreeting(name: String): String {
 }
 ```
 parameters in kotlin are immutable
+
+- Functions with multiple parameters
+```kotlin
+fun main() {
+	val greetings = birthdayGreeting("saif", 21)
+	println(greetings)
+}
+fun birthdayGreeting(name: String, year: Int): String {
+	val greet = "Happy $year birthday $name"
+	return greet
+}
+```
+
+- The function name with its inputs (parameters) are collectively known as the _function signature_.
+
+- The function signature tells you the name of the function and what data types can be passed in. 
+
+- Named Arguments
+```kotlin
+fun main() {
+	val greetings = birthdayGreeting(name = "kl", age = 3)
+	// val greetings = birthdayGreeting(age = 5, name = "ss")
+}
+}
+fun birthdayGreeting(name: String, year: Int): String {
+	val greet = "Happy $year birthday $name"
+	return greet
+}
+```
+
+- Default Arguments
+```kotlin
+fun main() {
+	val greet = birthdayGreeting(year = 3)
+}
+fun birthdayGreeting(name: String = "saif", year: Int): String {
+	val greetings = "Hello $name age is $year"
+}
+```
