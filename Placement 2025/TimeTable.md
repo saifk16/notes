@@ -1,11 +1,11 @@
 ## Time table from Monday to Thursday 🗓️
 
 ### Morning
-| Time              | Activity                   |     |
-| ----------------- | -------------------------- | --- |
-| 5:00 AM - 6:00 AM | Wake up, freshen up, namaz |     |
-| 6:00 AM - 8:30 AM | Learn java/c++             |     |
-| 8:30 AM - 9:00 AM | ready for college          |     |
+| Time              | Activity                   |    
+| ----------------- | -------------------------- | 
+| 5:00 AM - 6:00 AM | Wake up, freshen up, namaz |     
+| 6:00 AM - 8:30 AM | Learn java/c++             |   
+| 8:30 AM - 9:00 AM | ready for college          |    
 
 ### College
 | Time              | Activity      |
@@ -23,9 +23,8 @@
 | Time              | Activity                                          |
 | ----------------- | ------------------------------------------------- |
 | 5:00 PM - 5:30 PM | CS Fundamentals (CN, OOPS, DBMS, OS, COA, SE, SD) |
-| 5:30 PM - 6:00 PM | Break / Relax, Namaz                              |
-| 6:00 PM - 7:00 PM | CS Fundamentals (CN, OOPS, DBMS, OS, COA, SE, SD) |
-|                   |                                                   |
+| 5:30 PM - 6:30 PM | Break / Relax, Namaz                              |
+| 6:30 PM - 7:30 PM | CS Fundamentals (CN, OOPS, DBMS, OS, COA, SE, SD) |
 
 ### Night
 | Time                | Activity                        |
