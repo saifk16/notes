@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Placement 2025/Topics/Kotlin/Kotlin.md",
+                "file": "Placement 2025/Topics/Frontend/HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kotlin"
+              "title": "HTML"
             }
           }
         ]
@@ -167,12 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dababeeb9cc7b9e6",
+  "active": "9a6b85a513d69ca8",
   "lastOpenFiles": [
+    "Placement 2025/Topics/Frontend/How Websites Work.md",
+    "Placement 2025/Topics/Frontend/How The Internet Works.md",
+    "Placement 2025/Topics/Frontend/HTML.md",
+    "Placement 2025/Topics/Kotlin/Kotlin.md",
+    "Placement 2025/Topics/Frontend",
+    "Placement 2025/Topics/Untitled.md",
     "Placement 2025/Topics/Kotlin",
     "Placement 2025/Topics/Android",
     "Placement 2025/Topics/CS Fundamentals/OOPS.md",
-    "Placement 2025/Topics/Kotlin/Kotlin.md",
     "Placement 2025/Resource.md",
     "Placement 2025/WhatToStudy.md",
     "Placement 2025/TimeTable.md",
