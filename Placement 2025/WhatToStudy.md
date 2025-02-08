@@ -11,5 +11,5 @@ Link to time table => [TimeTable](TimeTable.md)
 	- Computer Architecture and Organization
 	- System Design
 	- Software Engineering
-3. Android + Kotin => [Page](AndroidKotlin.md)
+3. Android + Kotin => [Page](Kotlin.md)
 4. 

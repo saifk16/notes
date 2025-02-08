@@ -11,10 +11,14 @@
             "id": "9a6b85a513d69ca8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Placement 2025/Topics/Kotlin/Kotlin.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kotlin"
             }
           }
         ]
@@ -163,10 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a6b85a513d69ca8",
+  "active": "dababeeb9cc7b9e6",
   "lastOpenFiles": [
+    "Placement 2025/Topics/Kotlin",
+    "Placement 2025/Topics/Android",
     "Placement 2025/Topics/CS Fundamentals/OOPS.md",
-    "Placement 2025/Topics/AndroidKotlin.md",
+    "Placement 2025/Topics/Kotlin/Kotlin.md",
     "Placement 2025/Resource.md",
     "Placement 2025/WhatToStudy.md",
     "Placement 2025/TimeTable.md",
