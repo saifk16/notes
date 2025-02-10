@@ -48,7 +48,44 @@ The file name must be index.html because it's default path of our homepage or th
 </html>
 ```
 - <!DOCTYPE html> => tells the version of html that will be used in the html document, mostly it's for HTML 5.
-- html => root of a HTML document
+- html => root of an HTML document
 - head => information about the html document
 - title => title of the html document
 - body => contains everything you want to display on the web page.
+
+## How browsers determine the language of an HTML document ?
+
+`<html lang="en">`
+
+lang attribute specifies the language of the content.
+"en" => language code for the content, "hi" => for hindi
+
+**Attributes** are used along with the html tags to define the characteristics of the element. They provide additional information about elements.
+
+### in Hindi
+```html
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+	<meta charset="UTF-8">
+	<title> Hindi Example </title>
+<head>
+<body> 
+	<p> ये एक उदाहरण है हिन्दी मे कैसे लिखें </p>
+</body>
+</html>
+```
+
+## HTML Heading & Text
+- Headings (`<h1> to <h6>`)
+- Paragraphs (`<p>`)
+- Line breaks (`<br>`)
+- Horizontal rule (`<hr>`)
+
+### HTML Headings
+<h1> Heading h1 </h1>
+<h2> Heading h2 </h2>
+<h3> Heading h3 </h3>
+<h4> Heading h4 </h4>
+<h5> Heading h5 </h5>
+<h6> Heading h6 </h6>
