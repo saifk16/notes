@@ -2,30 +2,18 @@
 
 - All the 50 keywords with usage are listed below.
 
-  
-  
-  
-
 ### **1. `abstract`**
 
 The `abstract` keyword is used to declare a class or method as abstract.
 
 - Abstract classes cannot be instantiated.
-
 - Abstract methods are declared without an implementation.
-
-  
-
 ---
-
-  
-
 ### **2. `assert`**
 
 The `assert` keyword describes a predicate (a true/false statement) placed in the code to ensure a condition holds true.
 
 - If the assertion evaluates to `false`, an assertion failure occurs, typically aborting execution.
-
 - Optionally enabled by the ClassLoader method.
 
   

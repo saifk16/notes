@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Placement 2025/Topics/Java/Keywords.md",
+                "file": "Topics/Java/Keywords.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,6 +169,8 @@
   },
   "active": "ee54209e1922d6a5",
   "lastOpenFiles": [
+    "Topics/Java/Java.md",
+    "Topics/Java/Keywords.md",
     "Placement 2025/Topics/Java/Java.md",
     "Placement 2025/Topics/Java/Keywords.md",
     "Keywords.md",
