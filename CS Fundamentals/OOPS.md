@@ -2,4 +2,4 @@ Object Oriented Programming Language => https://whimsical.com/object-oriented-pr
 
 Follow the above roadmap
 
-OOPs video lectures => kunal kushwaha
+OOPs video lectures for java => kunal kushwaha

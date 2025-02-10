@@ -1,3 +1,7 @@
 {
-  "cssTheme": ""
+  "cssTheme": "",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "baseFontSize": 16
 }

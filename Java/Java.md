@@ -301,11 +301,10 @@ They are also called short hand operators. 👆
 
 ## Unary Operators
 
-- -
-- + 
-- ++
-- \--
-- 
+- - => unary minus , x = -y
+- + => probably redundant
+- ++ -- => post and pre
+- ! => not for reversing boolean 
 
 ## Arithmetic Operators
 

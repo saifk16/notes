@@ -1,5 +1,8 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "trashOption": "none",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }
