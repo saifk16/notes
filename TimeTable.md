@@ -1,11 +1,11 @@
 ## Time table from Monday to Thursday 🗓️
 
 ### Morning
-| Time              | Activity                   |    
-| ----------------- | -------------------------- | 
-| 5:00 AM - 6:00 AM | Wake up, freshen up, namaz |     
-| 6:00 AM - 8:30 AM | Learn java/c++             |   
-| 8:30 AM - 9:00 AM | ready for college          |    
+| Time              | Activity                   |
+| ----------------- | -------------------------- |
+| 5:00 AM - 6:00 AM | Wake up, freshen up, namaz |
+| 6:00 AM - 8:30 AM | Learn java/c++             |
+| 8:30 AM - 9:00 AM | ready for college          |
 
 ### College
 | Time              | Activity      |

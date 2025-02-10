@@ -281,7 +281,7 @@ long eBig = (long) 3.4;
 int eInt = (int) 3.4;
 ```
 
-## Assignment operator
+## Assignment operators
 
 Assigns the right hand operand's value to the left hand operand
 
@@ -290,3 +290,62 @@ Assigns the right hand operand's value to the left hand operand
 int a = 5;
 int b = a;
 ```
+
+- += => Addition and assign , x += 4; x = x + 4
+- -= => Subtraction and assign , x -= 4; x = x - 4
+- \*= => Multiplication and assign , x *= 4; x = x * 4
+- /= =>  Division and assign , x /= 4; x = x / 4
+- %= => Modulo and assign , x %= 4; x = x % 4
+
+They are also called short hand operators. 👆
+
+## Unary Operators
+
+- -
+- + 
+- ++
+- \--
+- 
+
+## Arithmetic Operators
+
+| Operators | Meaning                                               | Example |
+| --------- | ----------------------------------------------------- | ------- |
+| +         | Addition                                              | x + y   |
+| -         | Substraction                                          | x - y   |
+| *         | Multiplication                                        | x * y   |
+| /         | Division                                              | x / y   |
+| %         | Modulus operator to get remainder in integer division | x % y   |
+
+## Order of Operation
+
+*`BODMAS OR PEMDAS`*
+
+
+## If-else
+- use if ( ) { } to check a condition
+- if => execute block if condition is true, skips if false.
+- else => execute a block when the condition is false.
+- curly braces => can be omitted for single statements, but not recommended.
+- if-else Ladder => multiple if and else if blocks, only one executes.
+- Use variables: can store conditions in variables for use in if statements.
+
+## Relational Operators
+- Equality 
+	- == checks value equality
+
+- Inequality 
+	- != checks value inequality
+
+- Relational 
+	- > Greater than
+	- < Less than
+	- <= Less than or equal to
+	- >= Greater than or equal to
+
+## Logical Operators
+
+Types: && (AND), || (OR), ! (NOT)
+- AND (&&): All conditions must be true for the result to be true.
+- OR (||): Only one condition must be true for the result to be true.
+- NOT (!): Inverts the Boolean value of a condition
