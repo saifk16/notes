@@ -89,3 +89,38 @@ lang attribute specifies the language of the content.
 <h4> Heading h4 </h4>
 <h5> Heading h5 </h5>
 <h6> Heading h6 </h6>
+A single `<h1>` is typically used per page.
+follow the hierarchy `<h1>` to `<h6>`
+
+### HTML Paragraphs
+
+<p>paragraph</p>
+`<p></p>`
+
+Browser automatically adds a single blank before and after `<p>` `</p>` tag.
+Note: Block level elements cannot nest block elements but can nest inline elements like `<strong>` `<em>` etc.
+
+### Working with br and hr tags
+
+`<hr />` => horizontal rule or thematic break in paragraph level elements.
+
+`<br />` => line break in text (carriage return)
+
+ No matter how many ==white-space== you use inside HTML elements or content, the html parser reduces each sequence of ==white-space== to single space when rendering the code. 
+
+### Comments
+
+`<!-- comment -->`
+
+like this you can comment in html
+
+### Text Formatting
+
+- bold => `<strong>`, `<b>`
+- italic => `<em>`, `<i>`
+- underline => `<u>` `<s>` -> ~~Strike~~
+- subscript => `<sub>`
+- superscript => `<sup>`
+
+##### Preformatted text
+- `<pre>` => 
