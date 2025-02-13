@@ -1,0 +1,1 @@
+This repo contains all notes I take about my cs learnings and 

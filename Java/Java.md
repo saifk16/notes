@@ -168,7 +168,7 @@ Keep a good and short name, choose names that are descriptive but not too long. 
 5. There is no limit on the length of the identifier but it is advisable to use an optimum length of 4 - 15 letters only.
 6. Example =>
 
-![Identifers Valid/Invalid](./IMG/identifiers_valid_invalid.png "Identifiers Valid/Invalid")
+![Identifers Valid/Invalid](./img/identifiers_valid_invalid.png "Identifiers Valid/Invalid")
 
 ## Literals
 

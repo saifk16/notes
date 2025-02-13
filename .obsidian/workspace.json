@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/HTML.md",
+                "file": "Java/Java.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HTML"
+              "title": "Java"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,6 +194,8 @@
   },
   "active": "ee2f2f16f0164a09",
   "lastOpenFiles": [
+    "README.md",
+    "Frontend/HTML.md",
     "Java/Java.md",
     "TimeTable.md",
     "WhatToStudy.md",
@@ -209,7 +210,6 @@
     "Java",
     "Frontend/How The Internet Works.md",
     "Frontend/How Websites Work.md",
-    "Frontend/HTML.md",
     "Frontend",
     "DSA/DSA.md",
     "DSA",
@@ -234,7 +234,6 @@
     "Placement 2025/Topics/Java/Keywords.md",
     "Keywords.md",
     "Placement 2025/Topics/Kotlin/Kotlin.md",
-    "Placement 2025/WhatToStudy.md",
     "Placement 2025/Topics/Java/img/datatypes.png",
     "Placement 2025/Topics/Java/img/identifiers_valid_invalid.png"
   ]
