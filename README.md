@@ -22,7 +22,7 @@ The notes are organized into different categories:
 	- HTML => [Page](HTML)
 5. **GO** – [Page](GO.md)
 6. **Kotlin** – Language concepts, Android-specific Kotlin features => [Page](Kotlin.md)
-7. **Java** – Core Java => [Page][Java.md]
+7. **Java** – Core Java => [Page](Java.md)
 
 ## 🔧 How to Use
 8. Clone the repository:
