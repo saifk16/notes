@@ -17,11 +17,12 @@ The notes are organized into different categories:
 	- Computer Architecture and Organization
 	- Software Engineering
 
-3. **Go** – Language basics, advanced concepts, best practices
-4. **Frontend** – Angular, web development essentials
-5. **Android Development** – Jetpack, UI/UX, Android architecture components
-6. **Kotlin** – Language concepts, Android-specific Kotlin features
-7. **Java** – Core Java, OOP, multithreading, Spring Boot, and backend-related topics
+3. **DSA** – [Page](DSA.md)
+4. **Frontend** – 
+	- HTML => [Page](HTML)
+5. **GO** – [Page](GO.md)
+6. **Kotlin** – Language concepts, Android-specific Kotlin features => [Page](Kotlin.md)
+7. **Java** – Core Java => [Page][Java.md]
 
 ## 🔧 How to Use
 8. Clone the repository:

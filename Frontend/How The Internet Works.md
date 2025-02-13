@@ -15,4 +15,4 @@ The Internet is essentially a vast network of interconnected computers linked by
     - Data travels as electrical signals through wires or fiber-optic cables, sometimes even under the ocean.
     - These signals move at the speed of light, allowing instant communication worldwide.
 
-In essence, the Internet is a massive network of connected computers exchanging data through physical cables, enabling fast and seamless access to websites and online services. 🚀
+In essence, the Internet is a massive network of connected computers exchanging data through physical cables, enabling fast and seamless access to websites and online services. 

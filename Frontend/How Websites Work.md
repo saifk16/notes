@@ -19,4 +19,4 @@ Websites are built using three key files: **HTML, CSS, and JavaScript**, and you
     - You can **right-click → Inspect** any element, edit its content, and see changes in real-time.
     - However, refreshing the page restores the original content, as changes are only local.
 
-By understanding HTML, CSS, and JavaScript, you can build and customize your own websites, making them look and function exactly as you want. 🚀
+By understanding HTML, CSS, and JavaScript, you can build and customize your own websites, making them look and function exactly as you want. 
