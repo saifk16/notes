@@ -7,7 +7,6 @@ This repository contains my personal notes on various topics, including Data Str
 The notes are organized into different categories:
 
 1. **Android** - Kotlin and Jetpack Compose => [Page](Android.md)
-
 2. **Computer Science Fundamentals** -
 	- Object-Oriented Programming => [Page](OOPS.md)
 	- Operating Systems
@@ -16,7 +15,6 @@ The notes are organized into different categories:
 	- System Design
 	- Computer Architecture and Organization
 	- Software Engineering
-
 3. **DSA** – [Page](DSA.md)
 4. **Frontend** – 
 	- HTML => [Page](HTML)
@@ -24,22 +22,35 @@ The notes are organized into different categories:
 6. **Kotlin** – Language concepts, Android-specific Kotlin features => [Page](Kotlin.md)
 7. **Java** – Core Java => [Page](Java.md)
 
-## 🔧 How to Use
-8. Clone the repository:
+## 🔧 How to use this repo
+
+1. Clone the repository:
+
    ```sh
    git clone https://github.com/f-ei8ht/notes.git
    ```
-9. Open the notes in [Obsidian](https://obsidian.md/) or any markdown This repository contains all notes I take about my cs learning's and viewer.
 
-## 🛠 Tech Stack
-- **Markdown** – For writing structured and readable notes
-- **Obsidian** – Used for organizing and linking notes efficiently
-- **GitHub** – Version control and backup
+2. Open the notes in [Obsidian](https://obsidian.md/) or any markdown editor of your choice.
+3. Start exploring.
+4. New to [Obsidian](https://obsidian.md/), follow the tutorials and guides given below to grasp concepts quickly -
+	- Obsidian as a Second Brain: The Ultimate Tutorial => [Link](https://youtu.be/WqKluXIra70?si=xTnUb7_jCbRV4Z6t)
+	- How I Take Notes For Computer Science With Obsidian: A Deep Dive and Tutorial => [Link](https://youtu.be/QWYG_67ADv4?si=dHFMzQ1EulefyaLB)
+	- Odysseas YouTube channel, he has impressive videos about obsidian => [Link](https://youtube.com/@odysseas__?si=uOT-U7jP-hSCyZaD)
+	- Obsidian Help => [Link](https://help.obsidian.md/Home)
+	- Obsidian Developer Docs => [Link](https://docs.obsidian.md/Home)
+5. Never used markdown before, just go to this website [Markdown Guide](https://www.markdownguide.org/), you can easily learn about markdown in a single day.
 
-## 📜 License
-This repository is for personal learning purposes. Feel free to explore, but please do not redistribute without permission.
+
+## 🛠 How I take notes
+
+- **Markdown** – For writing structured and readable notes, I use markdown.
+	- It is a markup language created by [Jake Gruber](https://daringfireball.net/projects/markdown/)
+- **Obsidian** – Used for organizing and linking notes.
+	- They have a graph view which is very impressive.
+- For syncing your notes 
 
 ## 🚀 Future Plans
+
 - Expand DSA notes with more problem explanations and solutions
 - Add more in-depth notes on Go and backend development
 - Improve Android development section with hands-on examples
