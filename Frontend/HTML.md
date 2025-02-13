@@ -118,9 +118,101 @@ like this you can comment in html
 
 - bold => `<strong>`, `<b>`
 - italic => `<em>`, `<i>`
-- underline => `<u>` `<s>` -> ~~Strike~~
+- underline => `<u>` `<s>` -> ~~Strike~~ no longer relevant
 - subscript => `<sub>`
 - superscript => `<sup>`
+- Examples =>
+
+<html>
+	<head>
+		<title>Example</title>
+	</head>
+	<body>
+		<p><strong>hi</strong></p>
+		<p><em>there</em></p>
+		<p><u>are</u></p>
+		<p><s>you</s></p>
+		<p>good<sub>1</sub></p>
+		<p>hahaha<sup>2</sup></p>
+	</body>
+</html>
+
+```html
+<html>
+	<head>
+		<title>Example</title>
+	</head>
+	<body>
+		<p><strong>hi</strong></p>
+		<p><em>there</em></p>
+		<p><u>are</u></p>
+		<p><s>you</s></p>
+		<p>good<sub>1</sub></p>
+		<p>hahaha<sup>2</sup></p>
+	</body>
+</html>
+```
+
 
 ##### Preformatted text
-- `<pre>` => 
+- `<pre>` => it will show as it is the content is.
+- `<kbd>` => used to represent something related to a command or keyboard usage .
+- `<abbr>` => see full form of any short abbreviation or acronym {title attribute}
+- `<mark>` => highlight your text
+- `<small>` => make text small
+- `<del>` => used as a strike removal from document
+
+<html>
+	<head>
+		<title>Example</title>
+	</head>
+	<body>
+		<pre>
+			<kbd>Ctrl</kbd>+<kbd>s</kbd>
+			<abbr title="Control">Ctrl</abbr>
+			<mark>Highlight</mark>
+			<p>big<small>small text</small></p>
+			<p>hi <del>no</del></p>
+		</pre>
+	</body>
+</html>
+
+```html
+<html>
+	<head>
+		<title>Example</title>
+	</head>
+	<body>
+		<pre>
+			<kbd>Ctrl</kbd>+<kbd>s</kbd>
+			<abbr title="Control">Ctrl</abbr>
+			<mark>Highlight</mark>
+			<p>big<small>small text</small></p>
+			<p>hi <del>no</del></p>
+		</pre>
+	</body>
+</html>
+```
+
+### Inline Styling
+<p style = "color: blue">hello</p> 
+
+```html
+<p style = "color: blue">hello</p> 
+```
+
+#Note => While using nested tags never mismatch the tags
+
+## Anchor Tag
+
+`<a>` => anchor tag is used to create hyperlink, link one page to another
+
+```html
+<a href="https://www.example.com/">visit</a>
+```
+
+<a href="https://www.example.com/">visit</a>
+
+<abbr title="Hypertext Reference">href</abbr> => hyper text reference
+
+URL => Uniform Resource Locator

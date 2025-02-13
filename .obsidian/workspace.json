@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "679f7560d195a687",
+        "id": "494ab78585b42087",
         "type": "tabs",
         "children": [
           {
-            "id": "f61fdc5c9a00ca35",
+            "id": "a5be535d24f9f484",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Frontend/HTML.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "HTML"
             }
           }
         ]
@@ -192,14 +192,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f61fdc5c9a00ca35",
+  "active": "a5be535d24f9f484",
   "lastOpenFiles": [
+    "Frontend/HTML.md",
     "README.md",
     "().md",
     "Java/Java.md",
     "Kotlin/Kotlin.md",
     "Kotlin.java.md",
-    "Frontend/HTML.md",
     "Frontend/How The Internet Works.md",
     "Frontend/How Websites Work.md",
     "DSA/DSA.md",
