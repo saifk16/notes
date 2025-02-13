@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Java"
+              "title": "README"
             }
           }
         ]
@@ -194,11 +194,12 @@
   },
   "active": "ee2f2f16f0164a09",
   "lastOpenFiles": [
+    "Android/Android.md",
     "README.md",
-    "Frontend/HTML.md",
-    "Java/Java.md",
     "TimeTable.md",
     "WhatToStudy.md",
+    "Java/Java.md",
+    "Frontend/HTML.md",
     "CS Fundamentals/OOPS.md",
     "GO",
     "Kotlin/Kotlin.md",
@@ -214,7 +215,6 @@
     "DSA/DSA.md",
     "DSA",
     "CS Fundamentals",
-    "Android/Android.md",
     "Android",
     "Topics/Kotlin/Kotlin.md",
     "Topics/Kotlin",
