@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CS Fundamentals/OOPS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "OOPS"
             }
           }
         ]
@@ -194,11 +194,11 @@
   },
   "active": "ee2f2f16f0164a09",
   "lastOpenFiles": [
-    "Android/Android.md",
     "README.md",
-    "TimeTable.md",
-    "WhatToStudy.md",
     "Java/Java.md",
+    "WhatToStudy.md",
+    "Android/Android.md",
+    "TimeTable.md",
     "Frontend/HTML.md",
     "CS Fundamentals/OOPS.md",
     "GO",
