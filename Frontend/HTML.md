@@ -216,3 +216,9 @@ like this you can comment in html
 <abbr title="Hypertext Reference">href</abbr> => hyper text reference
 
 URL => Uniform Resource Locator
+
+attributes you can have =>
+href, title, rel, target, aria-\*, tabindex
+
+You can use the id attribute for in page links.
+

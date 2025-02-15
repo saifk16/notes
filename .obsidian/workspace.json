@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/HTML.md",
+                "file": "GO/Go.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "HTML"
+              "title": "Go"
             }
           }
         ]
@@ -194,7 +194,10 @@
   },
   "active": "a5be535d24f9f484",
   "lastOpenFiles": [
+    "GO/Go.md",
     "Frontend/HTML.md",
+    "GO",
+    "Haskell",
     "README.md",
     "().md",
     "Java/Java.md",
@@ -219,10 +222,8 @@
     "CS Fundamentals",
     "Android",
     "Topics/Kotlin/Kotlin.md",
-    "Topics/Kotlin",
     "Topics/Java/img/identifiers_valid_invalid.png",
     "Topics/Java/img/datatypes.png",
-    "Topics/Java/img",
     "Topics/Java/Keywords.md",
     "Topics/Java/Java.md",
     "Topics/Frontend/How Websites Work.md",
@@ -233,7 +234,6 @@
     "Topics/Android/Android.md",
     "2025-02-10.md",
     "Placement 2025/Topics/Java/Java.md",
-    "Placement 2025/Topics/Java/Keywords.md",
     "Placement 2025/Topics/Java/img/datatypes.png",
     "Placement 2025/Topics/Java/img/identifiers_valid_invalid.png"
   ]

@@ -18,7 +18,7 @@ The notes are organized into different categories:
 3. **DSA** – [Page](DSA.md)
 4. **Frontend** – 
 	- HTML => [Page](HTML)
-5. **GO** – [Page](GO.md)
+5. **GO** – [Page](Go.md)
 6. **Kotlin** – Language concepts, Android-specific Kotlin features => [Page](Kotlin.md)
 7. **Java** – Core Java => [Page](Java.md)
 
