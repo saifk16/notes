@@ -51,7 +51,7 @@ The notes are organized into different categories:
 	- I use arch by the way, so I created a github repo of my notes.
 	- Then I installed ish Shell on my ios device, and then I cloned the repo to my local storage, where ish Shell has kept it's files.
 	- Then I just simple copy paste my notes folder to obsidian vault, that is on the iCloud as simple as that.
-	- On, Windows I downloaded iCloud from microsoft store, hence I got my all devices synced.
+	- On, Windows simply use git and clone the repo place, open the repo as vault in obsidian.
 	- For android you can have termux installed and follow the same process.
 	- For detailed approach please follow this post on my website => [Link](https://my-new-hugo-si.netlify.app/posts/how-i-sync-my-notes/)
 
