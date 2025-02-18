@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e1b29015e92d500",
+        "id": "7fa3294a2eb66593",
         "type": "tabs",
         "children": [
           {
-            "id": "54dac68ee511dbbd",
+            "id": "d5d26ff9c40223b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 330.5
   },
   "right": {
     "id": "d5ba3822431cd935",
@@ -195,6 +195,11 @@
   "lastOpenFiles": [
     "Java/Java.md",
     "DSA/Time and Space Complexity.md",
+    "DSA/img/graph.png",
+    "DSA/img/graph",
+    "DSA/DSA.md",
+    "DSA/img/big-o-cheat-sheet-poster.png",
+    "DSA/img",
     "DSA/Untitled.canvas",
     "README.md",
     "Low Level",
@@ -208,7 +213,6 @@
     "Kotlin.java.md",
     "Frontend/How The Internet Works.md",
     "Frontend/How Websites Work.md",
-    "DSA/DSA.md",
     "CS Fundamentals/OOPS.md",
     "WhatToStudy.md",
     "Android/Android.md",
@@ -221,8 +225,6 @@
     "Java/Keywords.md",
     "Java",
     "Frontend",
-    "DSA",
-    "CS Fundamentals",
     "Topics/Kotlin/Kotlin.md",
     "Topics/Java/img/identifiers_valid_invalid.png",
     "Topics/Java/img/datatypes.png",

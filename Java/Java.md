@@ -169,7 +169,6 @@ Keep a good and short name, choose names that are descriptive but not too long. 
 6. Example =>
 
 ![Identifers Valid/Invalid](./img/identifiers_valid_invalid.png "Identifiers Valid/Invalid")
-
 ## Literals
 
 - Integer literals => 10, 5, -8 etc ..

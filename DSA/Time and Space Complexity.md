@@ -1,3 +1,8 @@
+![Graph](./img/graph.png)
+
+
+![CheatSheet](./img/big-o-cheat-sheet-poster.png)
+
 
 Algorithmic complexity
 time complexity and space complexity
@@ -6,17 +11,13 @@ time complexity and space complexity
 Time complexity is a way to analyze an algorithm's efficiency by measuring how the number of operations grows as the input size increases (n).
 
 three different notations
-- BIG - O #Worst refers to the behavior of an algo in worst case scenario
+- BIG - O #Worst refers to the behavior of an algorithm in worst case scenario
 - BIG - Ω #Best  (Omega) best case scenario
 - BIG - Θ #Average  (Theta) average case scenario 
 
 Common Complexities
-- Linear - O(n)
-- Constant - O(1)
-- Quadratic - O(n<sup>2</sup>)
-- Exponential - O(2<sup>n</sup>)
-- Logarithmic - O(log n)
 
+- Constant - O(1)
 ```mermaid
 --- 
 config:
