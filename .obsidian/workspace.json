@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Time and Space Complexity.md",
+                "file": "GSoC/GSoC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Time and Space Complexity"
+              "title": "GSoC"
             }
           }
         ]
@@ -194,8 +194,10 @@
   },
   "active": "d5d26ff9c40223b4",
   "lastOpenFiles": [
-    "Low Level/Low Level Stuff.md",
     "DSA/Time and Space Complexity.md",
+    "GSoC/GSoC.md",
+    "GSoC",
+    "Low Level/Low Level Stuff.md",
     "DSA/DSA.md",
     "Android/Android.md",
     "WhatToStudy.md",
@@ -225,7 +227,6 @@
     "Java/img",
     "Java/Keywords.md",
     "Java",
-    "Frontend",
     "Topics/Kotlin/Kotlin.md",
     "Topics/Java/img/identifiers_valid_invalid.png",
     "Topics/Java/img/datatypes.png",
