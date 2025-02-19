@@ -346,5 +346,4 @@ They are also called short hand operators. 👆
 Types: && (AND), || (OR), ! (NOT)
 - AND (&&): All conditions must be true for the result to be true.
 - OR (||): Only one condition must be true for the result to be true.
-- NOT (!): Inverts the Boolean value of a condition
-- my name is saif ali 
+- NOT (!): Inverts the Boolean value of a condition.
