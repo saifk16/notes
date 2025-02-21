@@ -1,4 +1,4 @@
-# GSoC 2025
+ok# GSoC 2025
 
   Gsoc 2025 is here... read => [blog-1](https://opensource.googleblog.com/2025/01/google-summer-of-code-2025-is-here.html)
 

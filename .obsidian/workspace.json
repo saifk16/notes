@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GSoC/GSoC.md",
+                "file": "Haskell/Haskell.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GSoC"
+              "title": "Haskell"
             }
           }
         ]
@@ -194,8 +194,9 @@
   },
   "active": "d5d26ff9c40223b4",
   "lastOpenFiles": [
-    "DSA/Time and Space Complexity.md",
     "GSoC/GSoC.md",
+    "Haskell/Haskell.md",
+    "DSA/Time and Space Complexity.md",
     "GSoC",
     "Low Level/Low Level Stuff.md",
     "DSA/DSA.md",
@@ -236,7 +237,6 @@
     "Topics/Frontend/How The Internet Works.md",
     "Topics/Frontend/HTML.md",
     "Topics/DSA/DSA.md",
-    "Topics/CS Fundamentals/OOPS.md",
     "Placement 2025/Topics/Java/img/datatypes.png",
     "Placement 2025/Topics/Java/img/identifiers_valid_invalid.png"
   ]
