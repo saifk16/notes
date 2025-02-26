@@ -47,11 +47,11 @@ The notes are organized into different categories:
 	- It is a markup language created by [Jake Gruber](https://daringfireball.net/projects/markdown/)
 - **Obsidian** – Used for organizing and linking notes.
 	- They have a graph view which is very impressive.
-- For **syncing** my notes, I use iCloud, let me explain it in a more convenient way - 
+- For **syncing** my notes, I use git, let me explain it in a more convenient way - 
 	- I use arch by the way, so I created a github repo of my notes.
-	- Then I installed ish Shell on my ios device, and then I cloned the repo to my local storage, where ish Shell has kept it's files.
-	- Then I just simple copy paste my notes folder to obsidian vault, that is on the iCloud as simple as that.
-	- On, Windows simply use git and clone the repo place, open the repo as vault in obsidian.
+	- Then I installed ish Shell on my ios device, and then I cloned the repo to my local storage using git, where ish Shell has kept it's files.
+	- Then I just simple copy paste my notes folder to obsidian vault.
+	- On, Windows simply use git and clone the repo, open the repo as vault in obsidian.
 	- For android you can have termux installed and follow the same process.
 	- For detailed approach please follow this post on my website => [Link](https://my-new-hugo-si.netlify.app/posts/how-i-sync-my-notes/)
 

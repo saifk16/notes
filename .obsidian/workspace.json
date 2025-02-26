@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haskell/Haskell.md",
+                "file": "Misc/Misc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Haskell"
+              "title": "Misc"
             }
           }
         ]
@@ -194,21 +194,25 @@
   },
   "active": "d5d26ff9c40223b4",
   "lastOpenFiles": [
-    "GSoC/GSoC.md",
+    "Misc/Misc.md",
+    "WhatToStudy.md",
+    "Misc",
+    "TimeTable.md",
+    "Resources.md",
     "Haskell/Haskell.md",
+    "README.md",
+    "GSoC/GSoC.md",
     "DSA/Time and Space Complexity.md",
     "GSoC",
     "Low Level/Low Level Stuff.md",
     "DSA/DSA.md",
     "Android/Android.md",
-    "WhatToStudy.md",
     "Java/Java.md",
     "DSA/img/graph.png",
     "DSA/img/graph",
     "DSA/img/big-o-cheat-sheet-poster.png",
     "DSA/img",
     "DSA/Untitled.canvas",
-    "README.md",
     "Low Level",
     "GO/Go.md",
     "Frontend/HTML.md",
@@ -220,14 +224,12 @@
     "Frontend/How The Internet Works.md",
     "Frontend/How Websites Work.md",
     "CS Fundamentals/OOPS.md",
-    "TimeTable.md",
     "GO",
     "Kotlin",
     "Java/img/identifiers_valid_invalid.png",
     "Java/img/datatypes.png",
     "Java/img",
     "Java/Keywords.md",
-    "Java",
     "Topics/Kotlin/Kotlin.md",
     "Topics/Java/img/identifiers_valid_invalid.png",
     "Topics/Java/img/datatypes.png",
@@ -235,8 +237,6 @@
     "Topics/Java/Java.md",
     "Topics/Frontend/How Websites Work.md",
     "Topics/Frontend/How The Internet Works.md",
-    "Topics/Frontend/HTML.md",
-    "Topics/DSA/DSA.md",
     "Placement 2025/Topics/Java/img/datatypes.png",
     "Placement 2025/Topics/Java/img/identifiers_valid_invalid.png"
   ]
