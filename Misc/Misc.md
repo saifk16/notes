@@ -57,3 +57,13 @@ https://www.freecodecamp.org/news/how-to-write-better-variable-names
 
 In [computer science](https://en.wikipedia.org/wiki/Computer_science "Computer science") and [computer programming](https://en.wikipedia.org/wiki/Computer_programming "Computer programming"), a **data type** (or simply **type**) is a collection or grouping of [data values](https://en.wikipedia.org/wiki/Value_\(computer_science\) "Value (computer science)"), usually specified by a set of possible values, a set of allowed operations on these values, and/or a representation of these values as machine types.[[1]](https://en.wikipedia.org/wiki/Data_type#cite_note-FOOTNOTEParnasShoreWeiss1976-1) A data type specification in a program constrains the possible values that an [expression](https://en.wikipedia.org/wiki/Expression_\(computer_science\) "Expression (computer science)"), such as a variable or a function call, might take. On literal data, it tells the [compiler](https://en.wikipedia.org/wiki/Compiler "Compiler") or [interpreter](https://en.wikipedia.org/wiki/Interpreter_\(computing\) "Interpreter (computing)") how the programmer intends to use the data. Most programming languages support basic data types of [integer](https://en.wikipedia.org/wiki/Integer_\(computer_science\) "Integer (computer science)") numbers (of varying sizes), [floating-point](https://en.wikipedia.org/wiki/Floating_point "Floating point") numbers (which approximate [real numbers](https://en.wikipedia.org/wiki/Real_number "Real number")), [characters](https://en.wikipedia.org/wiki/Character_\(computing\) "Character (computing)") and [Booleans](https://en.wikipedia.org/wiki/Boolean_data_type "Boolean data type").[[2]](https://en.wikipedia.org/wiki/Data_type#cite_note-2)[[3]](https://en.wikipedia.org/wiki/Data_type#cite_note-3)
 
+--- 
+
+# Parameters vs. Arguments
+
+Parameters are the names used for inputs when _defining_ a function. Arguments are the values of the inputs supplied when a function is _called_.
+
+To reiterate, **arguments are the actual values** that go into the function, such as `42.0`, `"the dark knight"`, or `True`. **Parameters are the names** we use in the function definition to refer to those values, which at the time of writing the function, can be whatever we like.
+
+---
+
