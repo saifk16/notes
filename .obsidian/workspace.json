@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fa3294a2eb66593",
+        "id": "9f7400fd7378be15",
         "type": "tabs",
         "children": [
           {
-            "id": "d5d26ff9c40223b4",
+            "id": "7056f9e7128f54c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Misc.md",
+                "file": "WhatToStudy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Misc"
+              "title": "WhatToStudy"
             }
           }
         ]
@@ -192,22 +192,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d5d26ff9c40223b4",
+  "active": "7056f9e7128f54c2",
   "lastOpenFiles": [
+    "Frontend/HTML.md",
+    "Java/Java.md",
     "Misc/Misc.md",
+    "GSoC/GSoC.md",
     "WhatToStudy.md",
     "Misc",
     "TimeTable.md",
     "Resources.md",
     "Haskell/Haskell.md",
     "README.md",
-    "GSoC/GSoC.md",
     "DSA/Time and Space Complexity.md",
     "GSoC",
     "Low Level/Low Level Stuff.md",
     "DSA/DSA.md",
     "Android/Android.md",
-    "Java/Java.md",
     "DSA/img/graph.png",
     "DSA/img/graph",
     "DSA/img/big-o-cheat-sheet-poster.png",
@@ -215,7 +216,6 @@
     "DSA/Untitled.canvas",
     "Low Level",
     "GO/Go.md",
-    "Frontend/HTML.md",
     "GO",
     "Haskell",
     "().md",
