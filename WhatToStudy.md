@@ -1,5 +1,4 @@
 ## Daily Schedule
-Link to time table => [TimeTable](TimeTable.md)
 
 
 1. DSA => [Page](DSA.md)
@@ -12,4 +11,5 @@ Link to time table => [TimeTable](TimeTable.md)
 	- System Design
 	- Software Engineering
 3. Android + Kotin => [Page](Kotlin.md)
-4. Frontend => html,css,tailwind,js,ts,solid.js,shadcn
+4. Frontend => html,css,tailwind,js,ts,solid.js,shadcn, neobrutalism.dev
+5. 

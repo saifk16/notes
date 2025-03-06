@@ -15,10 +15,10 @@ The notes are organized into different categories:
 	- System Design
 	- Computer Architecture and Organization
 	- Software Engineering
-3. **DSA** – [Page](DSA.md)
+3. **DSA** => [Page](DSA.md)
 4. **Frontend** – 
 	- HTML => [Page](HTML)
-5. **GO** – [Page](Go.md)
+5. **GO** => [Page](Go.md)
 6. **Kotlin** – Language concepts, Android-specific Kotlin features => [Page](Kotlin.md)
 7. **Java** – Core Java => [Page](Java.md)
 

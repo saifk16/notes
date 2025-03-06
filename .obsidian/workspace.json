@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f7400fd7378be15",
+        "id": "9d93e12a5da1a253",
         "type": "tabs",
         "children": [
           {
-            "id": "7056f9e7128f54c2",
+            "id": "af7a91fcb941cbe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WhatToStudy.md",
+                "file": "DSA/Time and Space Complexity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "WhatToStudy"
+              "title": "Time and Space Complexity"
             }
           }
         ]
@@ -192,51 +192,51 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7056f9e7128f54c2",
+  "active": "af7a91fcb941cbe3",
   "lastOpenFiles": [
-    "Frontend/HTML.md",
+    "DSA/DSA.md",
     "Java/Java.md",
-    "Misc/Misc.md",
+    "Java/img/operator-precedence.jpeg",
+    "Java/Keywords.md",
     "GSoC/GSoC.md",
-    "WhatToStudy.md",
-    "Misc",
-    "TimeTable.md",
     "Resources.md",
-    "Haskell/Haskell.md",
     "README.md",
+    "WhatToStudy.md",
+    "TimeTable.md",
+    "Frontend/HTML.md",
+    "CS Fundamentals/OOPS.md",
+    "Android/Android.md",
+    "Kotlin/Kotlin.md",
+    "GO/Go.md",
     "DSA/Time and Space Complexity.md",
+    "Misc/Misc.md",
+    "Misc",
+    "Haskell/Haskell.md",
     "GSoC",
     "Low Level/Low Level Stuff.md",
-    "DSA/DSA.md",
-    "Android/Android.md",
     "DSA/img/graph.png",
     "DSA/img/graph",
     "DSA/img/big-o-cheat-sheet-poster.png",
     "DSA/img",
     "DSA/Untitled.canvas",
     "Low Level",
-    "GO/Go.md",
     "GO",
     "Haskell",
     "().md",
-    "Kotlin/Kotlin.md",
     "Kotlin.java.md",
     "Frontend/How The Internet Works.md",
     "Frontend/How Websites Work.md",
-    "CS Fundamentals/OOPS.md",
     "GO",
     "Kotlin",
     "Java/img/identifiers_valid_invalid.png",
     "Java/img/datatypes.png",
     "Java/img",
-    "Java/Keywords.md",
     "Topics/Kotlin/Kotlin.md",
     "Topics/Java/img/identifiers_valid_invalid.png",
     "Topics/Java/img/datatypes.png",
     "Topics/Java/Keywords.md",
     "Topics/Java/Java.md",
     "Topics/Frontend/How Websites Work.md",
-    "Topics/Frontend/How The Internet Works.md",
     "Placement 2025/Topics/Java/img/datatypes.png",
     "Placement 2025/Topics/Java/img/identifiers_valid_invalid.png"
   ]

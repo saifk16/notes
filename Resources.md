@@ -4,4 +4,5 @@ https://gilmi.me/blog/post/2021/08/14/hs-core-tools
 haskell from the first principles
 mooc 
 exercism
-code crafters => grep project
+code crafters 
+jpf

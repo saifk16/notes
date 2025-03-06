@@ -1,4 +1,4 @@
-ok# GSoC 2025
+# GSoC 2025
 
   Gsoc 2025 is here... read => [blog-1](https://opensource.googleblog.com/2025/01/google-summer-of-code-2025-is-here.html)
 
@@ -28,3 +28,14 @@ Related to the project above, there are also some new features in Java 17 that a
 **Scope:** 175 hours  
 **Required skills:** Knowledge of Java internals  
 **Possible Mentors:** Cyrille
+
+#### Support runtime exception in SPF
+
+[Link](https://github.com/javapathfinder/jpf-core/wiki/GSoC-2025-Project-Ideas#-support-runtime-exception-in-spf)
+
+**Description:** The main goal of this project is to support throwing a runtime exception for some of the summarized functions such as `String.substring`. Also, this project should build on [SPF](https://github.com/SymbolicPathFinder/jpf-symbc) Java 11 Gradle support, which implies fixing existing issues.
+
+**Difficulty:** Meduim  
+**Scope:** 175 hours  
+**Required skills:** Knowledge of Symbolic Pathfinder  
+**Possible Mentors:** Soha

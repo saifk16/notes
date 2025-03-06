@@ -347,3 +347,76 @@ Types: && (AND), || (OR), ! (NOT)
 - AND (&&): All conditions must be true for the result to be true.
 - OR (||): Only one condition must be true for the result to be true.
 - NOT (!): Inverts the Boolean value of a condition.
+
+## Operator Precedence
+
+![Operator Precedence](./img/operator-precedence.jpeg)
+
+- operator precedence - Determine the evaluation order according to their priority
+- highest to lowest in the above image
+- associativity - order of operation for same precedence of operators
+
+## Bitwise operator
+
+Bitwise AND (&) : performed on two integers
+Bitwise OR (|): performed on two integers
+Bitwise Xor (^): A'.B + A.B' performed on two integers
+Bitwise complement (~): 0 to 1 and 1 to 0
+Bitwise Left shift (<<): Shift the left operand bits to left
+Bitwise Right shift (>>): shift the left operand bits to right
+
+| 0   | 0000 |
+| --- | ---- |
+| 1   | 0001 |
+| 2   | 0010 |
+| 3   | 0011 |
+| 4   | 0100 |
+| 5   | 0101 |
+| 6   | 0110 |
+| 7   | 0111 |
+| 8   | 1000 |
+| 9   | 1001 |
+| 10  | 1010 |
+| 11  | 1011 |
+| 12  | 1100 |
+| 13  | 1101 |
+| 14  | 1110 |
+| 15  | 1111 |
+
+## Comments
+
+Single line: // 
+multi line: `/* */`
+java doc: `/** */`
+```java
+/**
+*@param args
+*
+*/
+```
+
+## While loop
+always include a update to avoid infinte looping
+while condition true used for non standard conditions
+```java
+int n = 1; // initilization
+while(condition) { // condition
+	// body of loop
+	n++; // updation
+}
+```
+- initialization
+- condition
+- updation
+
+## Functions/Methods
+- #note most important => in java there are methods because functions are always written inside class, hence the functions written inside class are methods.
+- DRY principle: Do not repeat yourself
+- reusable block of code
+- organises code
+- camelCase naming 
+```java
+public void sum(int a, int b) {
+	int c = a + b;
+}
+```
