@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Time and Space Complexity.md",
+                "file": "Java/Array.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Time and Space Complexity"
+              "title": "Array"
             }
           }
         ]
@@ -194,8 +194,11 @@
   },
   "active": "af7a91fcb941cbe3",
   "lastOpenFiles": [
+    "Java/Basic.md",
+    "Java/Array.md",
+    "Misc/Misc.md",
+    "DSA/Time and Space Complexity.md",
     "DSA/DSA.md",
-    "Java/Java.md",
     "Java/img/operator-precedence.jpeg",
     "Java/Keywords.md",
     "GSoC/GSoC.md",
@@ -208,8 +211,6 @@
     "Android/Android.md",
     "Kotlin/Kotlin.md",
     "GO/Go.md",
-    "DSA/Time and Space Complexity.md",
-    "Misc/Misc.md",
     "Misc",
     "Haskell/Haskell.md",
     "GSoC",

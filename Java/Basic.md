@@ -321,6 +321,7 @@ They are also called short hand operators. 👆
 
 
 ## If-else
+
 - use if ( ) { } to check a condition
 - if => execute block if condition is true, skips if false.
 - else => execute a block when the condition is false.
@@ -329,6 +330,7 @@ They are also called short hand operators. 👆
 - Use variables: can store conditions in variables for use in if statements.
 
 ## Relational Operators
+
 - Equality 
 	- == checks value equality
 
@@ -388,6 +390,7 @@ Bitwise Right shift (>>): shift the left operand bits to right
 Single line: // 
 multi line: `/* */`
 java doc: `/** */`
+
 ```java
 /**
 *@param args
@@ -396,8 +399,10 @@ java doc: `/** */`
 ```
 
 ## While loop
+
 always include a update to avoid infinte looping
 while condition true used for non standard conditions
+
 ```java
 int n = 1; // initilization
 while(condition) { // condition
@@ -410,13 +415,25 @@ while(condition) { // condition
 - updation
 
 ## Functions/Methods
+
 - #note most important => in java there are methods because functions are always written inside class, hence the functions written inside class are methods.
 - DRY principle: Do not repeat yourself
 - reusable block of code
 - organises code
 - camelCase naming 
 ```java
-public void sum(int a, int b) {
-	int c = a + b;
+public static int sum(int a, int b) { // a and b are parameters give to the fn
+	int c = a + b; 
+	return c;
 }
+
+public static void main(String[] args) {
+	int result = sum(3,4); // 3 and 4 are arguments given to the fn sum
+	System.out.println(result);
+}
+
 ```
+
+## Return Statement
+
+- Used to return a value from the function.
