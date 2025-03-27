@@ -14,28 +14,22 @@ Google Summer of Code is a global, online program focused on bringing new contri
 
 Java path finder
 
-java core java jvm java internals bytecode jvm internals
+java core java jvm java internals bytecode jvm internals, symbolic execution
 
 ## 4. Projects
-
-####  Support for Java 17 for jpf-core
-
-[Link](https://github.com/javapathfinder/jpf-core/wiki/GSoC-2025-Project-Ideas#-support-for-java-17-for-jpf-core)
-
-Related to the project above, there are also some new features in Java 17 that are not yet supported by JPF. We have work in progress on branch `java-17`. Currently unsupported Java features include language features that are not supported at run time (e.g., records) and Java language features that are not fully analyzed (e.g., sealed classes). In this project, you would identify such unsupported features and extend JPF (jpf-core) to support them.
-
-**Difficulty:** Medium  
-**Scope:** 175 hours  
-**Required skills:** Knowledge of Java internals  
-**Possible Mentors:** Cyrille
-
-#### Support runtime exception in SPF
+#### ![#FFD700](https://camo.githubusercontent.com/ff7ab78d152ae181835351027e8eb4fc2a6f269be4b78c107b8cac5296229c1c/68747470733a2f2f706c616365686f6c642e636f2f31357831352f4646443730302f4646443730302e706e67) Support runtime exception in SPF
 
 [Link](https://github.com/javapathfinder/jpf-core/wiki/GSoC-2025-Project-Ideas#-support-runtime-exception-in-spf)
 
-**Description:** The main goal of this project is to support throwing a runtime exception for some of the summarized functions such as `String.substring`. Also, this project should build on [SPF](https://github.com/SymbolicPathFinder/jpf-symbc) Java 11 Gradle support, which implies fixing existing issues.
+**Description:** The main goal of this project is to support throwing a runtime exception for some of the summarized functions such as `String.substring`. Also, this project should build on [SPF](https://github.com/SymbolicPathFinder/jpf-symbc) Java 11 Gradle support, which implies fixing existing issues. This project will extend SPF branch `sv-comp`.
 
-**Difficulty:** Meduim  
-**Scope:** 175 hours  
+**Difficulty:** Medium 
+**Scope:** 350 hours  
 **Required skills:** Knowledge of Symbolic Pathfinder  
 **Possible Mentors:** Soha
+
+# Important
+
+### [Rules](https://summerofcode.withgoogle.com/rules)
+
+### [Contributor Agreement](https://summerofcode.withgoogle.com/terms/contributor)

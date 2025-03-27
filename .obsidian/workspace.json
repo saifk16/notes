@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Array.md",
+                "file": "GSoC/SPF (Symbolic Pathfinder).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Array"
+              "title": "SPF (Symbolic Pathfinder)"
+            }
+          },
+          {
+            "id": "d693a7a6b2eb3d30",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/javapathfinder/jpf-core/wiki/GSoC-2025-Project-Ideas#-support-for-java-17-for-jpf-core",
+                "title": "GSoC 2025 Project Ideas · javapathfinder/jpf-core Wiki · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GSoC 2025 Project Ideas · javapathfinder/jpf-core Wiki · GitHub"
             }
           }
         ]
@@ -194,14 +208,15 @@
   },
   "active": "af7a91fcb941cbe3",
   "lastOpenFiles": [
-    "Java/Basic.md",
+    "GSoC/GSoC.md",
+    "GSoC/SPF (Symbolic Pathfinder).md",
     "Java/Array.md",
+    "Java/Basic.md",
     "Misc/Misc.md",
     "DSA/Time and Space Complexity.md",
     "DSA/DSA.md",
     "Java/img/operator-precedence.jpeg",
     "Java/Keywords.md",
-    "GSoC/GSoC.md",
     "Resources.md",
     "README.md",
     "WhatToStudy.md",
@@ -237,7 +252,6 @@
     "Topics/Java/img/datatypes.png",
     "Topics/Java/Keywords.md",
     "Topics/Java/Java.md",
-    "Topics/Frontend/How Websites Work.md",
     "Placement 2025/Topics/Java/img/datatypes.png",
     "Placement 2025/Topics/Java/img/identifiers_valid_invalid.png"
   ]
