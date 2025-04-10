@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GSoC/SPF (Symbolic Pathfinder).md",
+                "file": "Java/Basic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SPF (Symbolic Pathfinder)"
+              "title": "Basic"
             }
           }
         ]
@@ -194,8 +194,8 @@
   },
   "active": "58e76e56331049ac",
   "lastOpenFiles": [
-    "GSoC/img/SymbolicExecution.png",
     "GSoC/SPF (Symbolic Pathfinder).md",
+    "GSoC/img/SymbolicExecution.png",
     "GSoC/Off-Shelf-Solvers.md",
     "GSoC/GSoC.md",
     "Frontend/HTML.md",

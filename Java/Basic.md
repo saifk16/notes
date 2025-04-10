@@ -421,6 +421,7 @@ while(condition) { // condition
 - reusable block of code
 - organises code
 - camelCase naming 
+- function always go in stack because a function below will wait for the function over it to get finished first
 ```java
 public static int sum(int a, int b) { // a and b are parameters give to the fn
 	int c = a + b; 
@@ -437,3 +438,22 @@ public static void main(String[] args) {
 ## Return Statement
 
 - Used to return a value from the function.
+
+## Pass by value
+
+```java
+public static int sum(int a, int b) { // a and b are parameters give to the fn
+	int c = a + b; 
+	return c;
+}
+
+public static void main(String[] args) {
+	int num1 = 10, num2 = 20; 
+	int result = sum(num1, num2); // 3 and 4 are arguments given to the fn sum
+	System.out.println(result);
+	// java creates a copy does not makes any reference here
+}
+```
+
+
+objects reference are passed but it is also pass by value because a copy of reference is passed
