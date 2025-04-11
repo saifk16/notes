@@ -11,10 +11,24 @@
             "id": "8dd526b6b70f2b84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GSoC/Abstract.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Abstract"
             }
           }
         ]
@@ -181,7 +195,7 @@
   "active": "8dd526b6b70f2b84",
   "lastOpenFiles": [
     "GSoC/Abstract.md",
-    "GSoC/Untitled.md",
+    "GSoC/Abstract.md",
     "GSoC/GSoC.md",
     "Resources.md",
     "Java/OOPS.md",
