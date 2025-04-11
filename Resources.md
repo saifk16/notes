@@ -8,3 +8,5 @@ code crafters
 jpf
 
 [Java Tutorial](https://jenkov.com/tutorials/java/index.html)
+
+https://pascalmichaillat.org/d5/

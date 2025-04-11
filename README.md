@@ -8,7 +8,7 @@ The notes are organized into different categories:
 
 1. **Android** - Kotlin and Jetpack Compose => [Page](Android.md)
 2. **Computer Science Fundamentals** -
-	- Object-Oriented Programming => [Page](OOPS.md)
+	- Object-Oriented Programming => [Page](CS%20Fundamentals/OOPS.md)
 	- Operating Systems
 	- Database Management System
 	- Computer Networks

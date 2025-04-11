@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Basic.md",
+                "file": "Resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Basic"
+              "title": "Resources"
             }
           }
         ]
@@ -194,23 +194,24 @@
   },
   "active": "58e76e56331049ac",
   "lastOpenFiles": [
+    "Resources.md",
+    "WhatToStudy.md",
+    "Java/OOPS.md",
+    "Java/Array.md",
+    "Java/Keywords.md",
+    "Java/Basic.md",
     "GSoC/SPF (Symbolic Pathfinder).md",
     "GSoC/img/SymbolicExecution.png",
     "GSoC/Off-Shelf-Solvers.md",
     "GSoC/GSoC.md",
     "Frontend/HTML.md",
-    "Java/Basic.md",
     "GSoC/img/ConcreteExecution.png",
     "GSoC/img",
-    "Resources.md",
-    "Java/Array.md",
     "Misc/Misc.md",
     "DSA/Time and Space Complexity.md",
     "DSA/DSA.md",
     "Java/img/operator-precedence.jpeg",
-    "Java/Keywords.md",
     "README.md",
-    "WhatToStudy.md",
     "TimeTable.md",
     "CS Fundamentals/OOPS.md",
     "Android/Android.md",

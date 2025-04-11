@@ -19,3 +19,10 @@ a[0] = 3;
 a[1] = 4;
 
 ```
+
+- array is a linear data structure
+
+```java
+int [][] a = new int[2][2];
+```
+
