@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "430676b69a59d0ec",
+        "id": "bd0424e7231e6b88",
         "type": "tabs",
         "children": [
           {
-            "id": "58e76e56331049ac",
+            "id": "8dd526b6b70f2b84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "GSoC/Abstract.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "Abstract"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 200
   },
   "right": {
     "id": "d5ba3822431cd935",
@@ -192,27 +192,29 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "58e76e56331049ac",
+  "active": "8dd526b6b70f2b84",
   "lastOpenFiles": [
-    "Resources.md",
-    "WhatToStudy.md",
-    "Java/OOPS.md",
-    "Java/Array.md",
-    "Java/Keywords.md",
-    "Java/Basic.md",
-    "GSoC/SPF (Symbolic Pathfinder).md",
-    "GSoC/img/SymbolicExecution.png",
-    "GSoC/Off-Shelf-Solvers.md",
+    "GSoC/Abstract.md",
+    "GSoC/Abstract.md",
     "GSoC/GSoC.md",
-    "Frontend/HTML.md",
+    "Resources.md",
+    "Java/OOPS.md",
+    "Java/Basic.md",
+    "Java/Array.md",
+    "WhatToStudy.md",
+    "GSoC/SPF (Symbolic Pathfinder).md",
+    "GSoC/Off-Shelf-Solvers.md",
+    "GSoC/img/SymbolicExecution.png",
     "GSoC/img/ConcreteExecution.png",
     "GSoC/img",
+    "DSA/DSA.md",
     "Misc/Misc.md",
     "DSA/Time and Space Complexity.md",
-    "DSA/DSA.md",
     "Java/img/operator-precedence.jpeg",
+    "Java/Keywords.md",
     "README.md",
     "TimeTable.md",
+    "Frontend/HTML.md",
     "CS Fundamentals/OOPS.md",
     "Android/Android.md",
     "Kotlin/Kotlin.md",
@@ -232,12 +234,10 @@
     "().md",
     "Kotlin.java.md",
     "Frontend/How The Internet Works.md",
-    "Frontend/How Websites Work.md",
     "GO",
     "Kotlin",
     "Java/img/identifiers_valid_invalid.png",
     "Java/img/datatypes.png",
-    "Topics/Kotlin/Kotlin.md",
     "Topics/Java/img/identifiers_valid_invalid.png",
     "Topics/Java/img/datatypes.png",
     "Placement 2025/Topics/Java/img/datatypes.png"
